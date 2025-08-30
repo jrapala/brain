@@ -22,6 +22,7 @@ prev: false
 - **Rudder**: The flight control surface on the vertical stabilizer.
 - **Powerplant**: Provides thrust. Could be a reciprocating gasoline engine connected to a propeller. Could be turboprop engines with propellers or turbofan engines.
 - **Winglets**: On the tips of wings of modern airlines. Reduces drag.
+- **Slats**: Used at takeoff to produce additional force.
 
 ## Four Forces of Flight
 
